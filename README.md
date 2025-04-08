@@ -1,16 +1,9 @@
-# untitled
+# Material-Store/Ankara Store
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Images
+![image](https://github.com/user-attachments/assets/1ccfb7ee-2fe3-4b97-9d9e-55a510c21c00)
+![image](https://github.com/user-attachments/assets/2d05289e-e518-4f67-9811-f7fd4ad0d248)
+![image](https://github.com/user-attachments/assets/537382cc-44d8-4d3b-83a0-789b58f9a2f9)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
